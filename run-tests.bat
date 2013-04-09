@@ -1,5 +1,1 @@
-#!/bin/sh
-
-set -e
-
 vendor/bin/phpunit --color --bootstrap src/bootstrap.php tests
